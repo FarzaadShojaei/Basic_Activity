@@ -1,5 +1,6 @@
 fun main(){
-    sayHello("Alice","Bob","Carol","Dan","Fiona","Eric")
+
+ //   sayHello("Alice","Bob","Carol","Dan","Fiona","Eric")
     /*
 
 cost("coffe",4.99)
@@ -7,11 +8,24 @@ val products= mapOf(Pair("cake",3.99),Pair("can of soda",1.50))
 
      */
 }
-
+/*
 fun sayHello(vararg names:String){
     for(name in names){
         println("Hello $name")
     }
+}
+
+
+ */
+
+fun sumOfIntegers(vararg numbers: Int):Int{
+var sum=0
+    for(number in numbers){
+        sum +=number
+    }
+
+    return sum
+
 }
 
 /*
