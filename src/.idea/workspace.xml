@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="84ac8277-5e7c-4987-a0d0-b067b3495e5b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/kotlinc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/kotlinc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin_Traning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Kotlin_Traning.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Break_Continue.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Break_Continue.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Common_HOFs.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Common_HOFs.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Elvis_Operator.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Elvis_Operator.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Expressions.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Expressions.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flow_Control.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Flow_Control.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/For_Loop.kt" beforeDir="false" afterPath="$PROJECT_DIR$/For_Loop.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Functions.py.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Functions.py.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Functions_Continued.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Functions_Continued.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Handling_Exceptions.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Handling_Exceptions.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HashSet.kt" beforeDir="false" afterPath="$PROJECT_DIR$/HashSet.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda_Function.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda_Function.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lists.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Lists.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Map.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Map.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Null_Value.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Null_Value.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Set.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Set.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/When_Conditional.kt" beforeDir="false" afterPath="$PROJECT_DIR$/When_Conditional.kt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2kClRCGj7mDRLuavwOWMbVufv28" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "Lambda__Second__Part",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="84ac8277-5e7c-4987-a0d0-b067b3495e5b" name="Changes" comment="" />
+      <created>1722795431474</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1722795431474</updated>
+      <workItem from="1722795433510" duration="1439000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
