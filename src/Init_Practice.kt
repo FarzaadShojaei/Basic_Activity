@@ -1,8 +1,8 @@
 fun main(args: Array<String>){
-    val newLaptop = Laptop('Windows 10')
+    val newLaptop = Laptop1("Windows 10")
 }
 
-class Laptop(val operatingSystem: String){
+class Laptop1(val operatingSystem: String){
     init {
         println("Operating system $operatingSystem is installing")
     }
